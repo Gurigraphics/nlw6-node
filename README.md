@@ -47,15 +47,23 @@ yarn dev
 ## Database rules
 
 - User registration
+
 [x] It is not allowed to register more than one user
+
 [x] It is not allowed to register user without email
 
 - TAG registration
+
 [x] It is not allowed to register more than one tag with the same name
+
 [x] It is not allowed to register an unnamed tag
+
 [x] Registration by non-admin users is not allowed
 
-- Registration of praise
+- Compliment registration
+
 [x] A user is not allowed to register a compliment for themselves
+
 [x] It is not allowed to register compliments for invalid users
+
 [x] User must be authenticated in the application
