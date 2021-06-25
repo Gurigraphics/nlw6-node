@@ -1,12 +1,13 @@
-### NLW Valoriza
+NLW Valoriza | Next Level Week Together 
 
-NLW Valoriza | Next Level Week Together | Mission Node | NLW6!
+Mission Node | NLW6
 ---
 
-<h5 align="center">
-NLW Valoriza is a platform where users can send compliments to other users.
+ 
+NLW Valoriza is a platform where users can send compliments to other users
 
-Resources:
+### Resources:
+```
 - Registration of tags (possible compliments)
 - Only admin user
 
@@ -22,7 +23,7 @@ Resources:
 - User Listing
 - Tag listing
 - List of compliments by user
-</h5>
+ ```
 
 ### Technologies
 This project was developed using the following technologies:
@@ -31,9 +32,12 @@ This project was developed using the following technologies:
 - [Typescript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/#/)
 - [Express](https://www.npmjs.com/package/express)
+- [Sqlite](https://www.sqlite.org/)
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [uuid](https://www.npmjs.com/package/uuid)
+- [beekeeper studio](https://www.beekeeperstudio.io/)
+- [insomnia](https://insomnia.rest/download)
 
 Start project
 ```bash
